@@ -28,8 +28,7 @@
 | Fecha / Clase | Actividad | Detalle |
 | :--- | :--- | :--- |
 | **Semanal** | Lectura Efesios | 3 veces por semana (RVR60, LBLA, NVI/NTV u otra). |
-| **Clase 3 (16/03)** | Reporte Escrito | Cap. Introducción de *"La lectura eficaz de la Biblia"* (Gordon Fee). |
-| **Clase 3 (16/03)** | Observación | Reporte de 1 plana con impresiones (no resumen). |
+| **Clase 3 (16/03)** | Reporte Observación | Cap. Introducción de *"La lectura eficaz de la Biblia"* (Gordon Fee). Reporte de 1 plana con impresiones (no resumen). |
 
 ---
 
@@ -94,4 +93,4 @@ primero observar contexto sin presuposiciones
 
 
 
-<span id="clase-1">Clase 2 (04/03/26)</span>
+<span id="clase-2">Clase 2 (09/03/26)</span>
