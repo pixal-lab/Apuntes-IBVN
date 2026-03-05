@@ -1,6 +1,6 @@
-# 🎓 Semestre Teológico 2026
+# 1 Semestre Teológico 2026
 
-## 📚 Asignaturas
+## Asignaturas
 | Ramo | Notas | Material |
 | :--- | :--- | :--- |
 | **Bibliología** | [Ver Apuntes](./01%20Bibliología/notas%20Bib.md) | [Cuadernillo PDF](./01%20Bibliología/Cuadernillo%20Bibliología.pdf) |
