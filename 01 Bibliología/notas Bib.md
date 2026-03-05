@@ -90,7 +90,7 @@ Que se de la bíblia?
 
 Que es la Biblia para mi?
 
-"Es la forma que usa Dios para acercarme a Él"
+"Es la forma que usa Dios para acercarme a Él y alejarme de lo que no es de Él"
 
 #### Bibliología es...
 El estudio de la doctrina de la biblia
